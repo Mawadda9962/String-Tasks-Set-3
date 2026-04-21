@@ -5,7 +5,7 @@ public class Task1 {
     public static void main(String[] args){
 
         String word = "fez day";
-        System.out.println();
+        System.out.println(countYZ(word));
 
 
         }
@@ -19,7 +19,7 @@ public class Task1 {
         int count = 0;
 
         for(int i = 0; i < str.length(); i++ ){
-            String currentChar = str.charAt(i);
+            String currentChar = String.valueOf(str.charAt(i));
 
             if(endingInYOrZ.contains(currentChar)){
                 if(i == str.length() -1){
@@ -28,21 +28,8 @@ public class Task1 {
 
             }
 
-
-
-            return count
-
+            return count;
 
         }
 
-
-
-
-
-
-
-
-
-
-    }
 }
