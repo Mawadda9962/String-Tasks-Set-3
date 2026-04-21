@@ -5,7 +5,7 @@ public class Task2 {
         String remove =  "llo";
 
 
-        System.out.println(baseAndRemove(base, remove);
+        System.out.println(baseAndRemove(base, remove));
 
     }
     public static String baseAndRemove(String base, String remove){
