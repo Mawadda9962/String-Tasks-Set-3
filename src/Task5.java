@@ -11,7 +11,7 @@ public class Task5 {
         for(int i = 0; i < str.length(); i++){
 
             if(str.charAt(i) == str.charAt(i + 1) && str.charAt(i) == str.charAt(i + 2)){
-                return
+                return count++;
             }
         }
     }
