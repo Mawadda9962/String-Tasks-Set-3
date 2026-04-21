@@ -4,9 +4,7 @@ public class Task3 {
 
         String equalIsNot = "This is not";
 
-        System.out.println(isEqualToNot());
-
-
+        System.out.println(isEqualToNot(equalIsNot));
 
 
     }
@@ -15,15 +13,15 @@ public class Task3 {
         int countIs = 0;
         int countNot = 0;
 
-        for(int i = 0; i < str.length(); i++){
+        for(int i = 0; i <= str.length() - 2; i++){
             if (str.substring(i, i + 2).equals("is")){
                 countIs++;
 
             }
         }
 
-        for (int i = 0; i < str.length(); i++){
-            if (str.substring(i, i + 3).equals("Not")){
+        for (int i = 0; i <= str.length() - 3; i++){
+            if (str.substring(i, i + 3).equals("not")){
                 countNot++;
             }
         }
