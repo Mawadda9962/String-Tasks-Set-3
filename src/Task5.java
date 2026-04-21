@@ -2,7 +2,7 @@ public class Task5 {
     public static void main(String[] args){
 
 
-        System.out.println();
+        System.out.println(appearingThreeTimes("abcXXXabc"));
     }
 
     public static Integer appearingThreeTimes(String str){
