@@ -4,7 +4,26 @@ import java.util.Set;
 public class Task1 {
     public static void main(String[] args){
 
-        Set<String> employeeIds = new HashSet<>();
+        String word = "fez day";
+        System.out.println();
+
+
+        }
+        public static int countYZ(String str){
+        Set <String> endingInYOrZ = new HashSet<>();
+
+
+        endingInYOrZ.add("Y");
+        endingInYOrZ.add("z");
+
+        int count = 0;
+
+
+
+
+
+
+
 
 
 
