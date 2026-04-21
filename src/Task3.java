@@ -4,7 +4,7 @@ public class Task3 {
 
         String equalIsNot = "This is not";
 
-        System.out.println(isEqualToNot);
+        System.out.println(isEqualToNot());
 
 
 
