@@ -30,7 +30,7 @@ public class Task1 {
 
 
 
-            return cou
+            return count
 
 
         }
