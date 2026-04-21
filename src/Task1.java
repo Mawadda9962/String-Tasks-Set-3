@@ -21,10 +21,16 @@ public class Task1 {
         for(int i = 0; i < str.length(); i++ ){
             String currentChar = str.charAt(i);
 
-            if()
+            if(endingInYOrZ.contains(currentChar)){
+                if(i == str.length() -1){
+                    count++;
+                }
+
+            }
 
 
 
+            re
 
 
         }
