@@ -2,6 +2,8 @@ public class Task3 {
     public static void main(String[] args){
 
 
+        String
+
 
     }
     public static boolean isEqualToNot (String str){
@@ -22,7 +24,7 @@ public class Task3 {
             }
         }
 
-        return countIs == countNot
+        return countIs == countNot;
 
 
     }
