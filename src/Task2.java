@@ -6,7 +6,15 @@ public class Task2 {
 
 
     }
-    public static String baseAndRemove(String main, String remove){
+    public static String baseAndRemove(String base, String remove){
+
+        String result =" ";
+
+        for(int i = 0; i < base.length(); i++){
+            if(base.contains(remove)){
+
+            }
+        }
 
     }
 }
