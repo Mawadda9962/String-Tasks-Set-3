@@ -12,9 +12,10 @@ public class Task2 {
 
         for(int i = 0; i < base.length(); i++){
             if(base.contains(remove)){
+                result = base.replace(remove, "");
 
             }
         }
-
+        System.out.println(result);
     }
 }
