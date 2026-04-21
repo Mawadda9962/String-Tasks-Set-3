@@ -22,7 +22,7 @@ public class Task3 {
             }
         }
 
-        return
+        return countIs == countNot
 
 
     }
