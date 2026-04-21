@@ -1,10 +1,11 @@
 public class Task2 {
     public static void mian(String[] args){
 
-        String base = "Hello there", "llo";
+        String base = "Hello there";
+        String remove =  "llo";
 
 
-        System.out.println(word);
+        System.out.println(baseAndRemove(base, remove);
 
     }
     public static String baseAndRemove(String base, String remove){
