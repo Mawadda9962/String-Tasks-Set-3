@@ -8,7 +8,7 @@ public class Task5 {
 
         int count = 0;
 
-        for()
+        for(int i = 0;)
     }
 
 }
