@@ -1,7 +1,7 @@
 public class Task2 {
     public static void mian(String[] args){
 
-        String word = {Hello there", "llo"};
+        String word = Hello there", "llo"};
 
 
         System.out.println(word);
