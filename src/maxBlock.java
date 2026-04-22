@@ -2,9 +2,9 @@ public class maxBlock {
     public static void main(String[] args){
 
 
+        System.out.println(maxBlock("abbCCCddBBBxx"));
     }
     public static Integer maxBlock(String str){
-        if (str.length() == 0) return 0;
 
         int count = 1;
         int max = 1;
