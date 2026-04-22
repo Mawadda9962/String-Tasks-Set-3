@@ -11,8 +11,11 @@ public class Task8 {
             String first = str.substring(i, i+1);
             String last = str.substring(str.length() -1 - i, str.length()-i);
 
-            if (first == )
+            if (first == last){
+               result == first;
+            }
         }
 
+        return result
     }
 }
