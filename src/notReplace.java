@@ -3,7 +3,7 @@ public class notReplace {
 
 
         System.out.println(notReplace("is test"));
-        System.out.println(notReplace(""));
+        System.out.println(notReplace("is-is"));
     }
 
     public static String notReplace(String str) {
