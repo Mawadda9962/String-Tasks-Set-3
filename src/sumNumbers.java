@@ -14,6 +14,6 @@ public class sumNumbers {
                 }
             }
         }
-        return
+        return sum;
     }
 }
