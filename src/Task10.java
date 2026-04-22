@@ -3,5 +3,8 @@ public class Task10 {
 
 
     }
+    public static Integer sumNumbers(String str){
+
+    }
 }
 
