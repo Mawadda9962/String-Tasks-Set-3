@@ -1,4 +1,4 @@
-public class Task7 {
+public class sameEnds {
     public static void main(String[] args){
         System.out.println(sameEnds("abXYab"));
 
