@@ -10,9 +10,10 @@ public class sumNumbers {
                 tem += str.charAt(i);
                 if(i == str.length()-1 || !Character.isDigit(str.charAt(i))){
                     sum += Integer.parseInt(tem);
-                    t
+                    tem = "";
                 }
             }
         }
+        return
     }
 }
