@@ -10,6 +10,6 @@ public class Task9 {
                 count++;
             }
         }
-        return
+        return count
     }
 }
