@@ -15,7 +15,7 @@ public class Task7 {
             }
 
         }
-        return re
+        return res
     }
 
 }
