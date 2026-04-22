@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
-public class Task1 {
+public class MirrorEnds {
     public static void main(String[] args) {
 
         String word = "fez day";
