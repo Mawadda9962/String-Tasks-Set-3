@@ -8,9 +8,10 @@ public class Task8 {
 
         for(int i = 0; i < str.length(); i++){
 
-            String first = str.substring(0, i);
-            String last = str.substring("")
+            String first = str.substring(i, i+1);
+            String last = str.substring(str.length() -1 - i, str.length()-i);
 
+            if (first == )
         }
 
     }
