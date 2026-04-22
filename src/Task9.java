@@ -4,5 +4,6 @@ public class Task9 {
     }
     public static Integer maxBlock(String str){
 
+        for(int i = 0; i < str.)
     }
 }
