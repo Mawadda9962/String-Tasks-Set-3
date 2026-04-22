@@ -10,7 +10,8 @@ public class Task6 {
         int sum = 0;
 
         for(int i = 0; i < str.length(); i++){
-            if(str.)
+            char a = str.charAt(i);
+            if(Character.isDigit())
 
 
         }
