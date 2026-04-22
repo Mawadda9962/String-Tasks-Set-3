@@ -1,4 +1,4 @@
-public class Task3 {
+public class equalIsNot {
     public static void main(String[] args){
 
 

@@ -1,4 +1,4 @@
-public class Task2 {
+public class withoutString {
 
     public static void main(String[] args) {
 
