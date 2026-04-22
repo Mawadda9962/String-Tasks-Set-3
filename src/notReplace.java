@@ -2,6 +2,7 @@ public class notReplace {
     public static void main(String[] args) {
 
 
+        System.out.println(notReplace());
     }
 
     public static String notReplace(String str) {
