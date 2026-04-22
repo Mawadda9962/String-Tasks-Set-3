@@ -4,6 +4,7 @@ public class Task6 {
 
         System.out.println(digitsFrom1To9("aa1bc2d3"));
         System.out.println(digitsFrom1To9("aa11b33"));
+        System.out.println(digitsFrom1To9("Chocolate"));
 
 
     }
