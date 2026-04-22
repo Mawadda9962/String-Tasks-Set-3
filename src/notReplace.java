@@ -11,7 +11,9 @@ public class notReplace {
 
                 result += str.charAt(i);
             }
-            else if(i+1 < str.length() && str)
+            else if(i+1 < str.length() && str.substring(i, i+2).equals("is")){
+
+            }
         }
     }
 }
