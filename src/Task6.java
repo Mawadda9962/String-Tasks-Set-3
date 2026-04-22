@@ -12,9 +12,10 @@ public class Task6 {
         int sum = 0;
 
         for(int i = 0; i < str.length(); i++){
-            char a = str.charAt(i);
-            if(Character.isDigit(a)){
-                Integer num = Integer.parseInt(String.valueOf(a));
+            char a = str.charAt(i); //Converting all the element of string to char
+            if(Character.isDigit(a)){ //checking if the char is digit
+                Integer num = Integer.parseInt(String.valueOf(a)); //Storing the digits in num
+                //as first i convert the char as a string String.valueOf(a) after that converting the string to int
                     sum += num;
                 }
 
