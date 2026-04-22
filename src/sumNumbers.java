@@ -8,7 +8,9 @@ public class sumNumbers {
         for(int i =0; i < str.length(); i++){
             if(Character.isDigit(str.charAt(i))){
                 tem += str.charAt(i);
-                if
+                if(i == str.length()-1 || !Character.isDigit(str.charAt(i))){
+                    sum
+                }
             }
         }
     }
