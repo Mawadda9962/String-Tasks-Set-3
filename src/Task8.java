@@ -3,5 +3,14 @@ public class Task8 {
 
 
     }
-    public static
+    public static String mirrorEnds(String str){
+        String result = " ";
+
+        for(int i = 0; i < str.length(); i++){
+
+            String first = str.substring(0, i);
+
+        }
+
+    }
 }
