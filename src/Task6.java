@@ -12,13 +12,14 @@ public class Task6 {
         for(int i = 0; i < str.length(); i++){
             char a = str.charAt(i);
             if(Character.isDigit(a)){
-                Integer num = Integer.parseInt(a){
+                Integer num = Integer.parseInt(String.valueOf(a));
                     sum += num;
                 }
 
             }
 
+        return sum;
 
         }
     }
-}
+
