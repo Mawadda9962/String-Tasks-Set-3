@@ -6,6 +6,8 @@ public class Task7 {
 
         for(int i = 0; i < str.length(); i++){
 
+            String first = str.substring(0,i);
+            String last = str.substring(str.length()-1);
 
         }
     }
