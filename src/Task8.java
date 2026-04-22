@@ -9,6 +9,7 @@ public class Task8 {
         for(int i = 0; i < str.length(); i++){
 
             String first = str.substring(0, i);
+            String
 
         }
 
